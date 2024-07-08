@@ -58,7 +58,7 @@ const ContactMe = () => {
                   >
               </lord-icon>
               </div>
-              <h2>+213 ( 111 - 222 - 333 )</h2>
+              <h2>+213 ( 774 82 39 48 )</h2>
             </div>
 
             <div className="infoBox">
