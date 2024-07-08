@@ -135,7 +135,7 @@ const Footer = () => {
                 <div class="footerlinks">
                   <h5 className="sectionTitle">Contact</h5>
                   <ul class="list-unstyled lh-lg">
-                    <li>+0123 456 789</li>
+                    <li>+213 (774 82 39 48) </li>
                     <li>abdelhadikaba64@<br/>gmail.com</li>
                     <li>Location Algeria - Algeria  (UTC+01:00) </li>
                   </ul>
