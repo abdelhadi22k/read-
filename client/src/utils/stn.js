@@ -1,3 +1,3 @@
 
 
-export const domain = 'http://localhost:8000'
+export const domain = 'https://read-git-main-abdelhadi22ks-projects.vercel.app'
