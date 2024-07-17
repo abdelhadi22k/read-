@@ -26,7 +26,7 @@ const AdminProjectD = ({ project }) => {
     setCurrentPage(pageNumber);
   };
 
-  return (
+  return ( 
     <div>
       <div className="ProjectContainer">
         {currentItems.length !== 0 ? (
