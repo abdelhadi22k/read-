@@ -38,9 +38,9 @@ const BlogDetels = () => {
       Back To Blog Page
     </Link>
         <Image className="blogImg" src={blog.image} alt={blog.title} fluid />
-        <h1 className="mainTitle">
+        <p className="mainTitle">
           {blog?.description?.descriptionDetails || "No description available"}
-        </h1>
+        </p>
 
         <div>
           <div className="blogInfos">
