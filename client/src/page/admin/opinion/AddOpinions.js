@@ -38,6 +38,7 @@ const AddOpinions = () => {
   }, []);
 
   const submitHandler = async (event) => {
+    event.preventDefault();
     const respons = await fetch(`${domain}/api/opinion/addOpinion`, {
       method: "POST",
       headers: {
