@@ -10,7 +10,7 @@ const SoloAdminBlogPage = ({ blog }) => {
                         return (
                             <div key={Blog.id} className="mb-2 ">
                                 <div className="blogBox2">
-                                    <Link to={`/AdminBlog/${Blog.slug}`}>
+                                    <Link to={`/AdminBlog-2352355/${Blog.slug}`}>
                                         <Image
                                             className="blogImg"
                                             src={Blog.image}
