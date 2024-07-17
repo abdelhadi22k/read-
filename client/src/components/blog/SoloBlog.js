@@ -28,7 +28,7 @@ const SoloBlog = ({ blog }) => {
                         <div></div> {Blog.writer}
                       </div>
                       <div> 
-                        <div></div> {Blog.createdAt}
+                        <div></div> 2024/6/12
                       </div>
                     </div>
                   </div>
