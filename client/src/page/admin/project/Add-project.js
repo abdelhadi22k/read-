@@ -23,7 +23,7 @@ const Add_project = () => {
     }
 
     const submitHandler = async (event) => {
-        event.preventDefault();
+       
 
         const tagsArray = tags.split(",").map((tag) => tag.trim());
 
