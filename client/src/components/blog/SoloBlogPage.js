@@ -18,8 +18,9 @@ const SoloBlogPage = ({ blog }) => {
                                             fluid
                                         />
                                     </Link>
-                                    <h1 className="mainTitle">{Blog.title}</h1>
                                     <span className="mainBtn1"> {Blog.category}</span> 
+                                                
+                                    <h1 className="mainTitle">{Blog.title}</h1>
 
                                   
                                 </div>
